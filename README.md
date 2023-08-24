@@ -46,7 +46,7 @@ notes during a stay in the ICU.
 
 ## _**Results**_
 
-All results are listed on table 5.1, with the best result for each metric highlighted in bold.
+All results are listed on table, with the best result for each metric highlighted in bold.
 When comparing the performance of the different models, it can be observed that the
 deep learning models are outperformed by machine learning or statistical models. Where
 regression models, and in particular Ridge Regression, yield the best results with an
