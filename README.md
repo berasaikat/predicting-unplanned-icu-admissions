@@ -55,13 +55,13 @@ AUROC of 0.70. By contrast, Random Forest has the highest recall, detecting high
 
 | Algorithm       | Accuracy | Precision | Recall | AUROC |
 |-----------------|----------|-----------|--------|-------|
-| Logistic Regression | 0.65 | 0.68 | 0.57 | 0.69 |
+| Logistic Regression | **0.65** | **0.68** | 0.57 | **0.69** |
 | Ridge Regression | 0.65 | 0.67 | 0.57 | 0.70 |
 | Lasso Regression | 0.63 | 0.66 | 0.55 | 0.69 |
 | Elastic Net | 0.64 | 0.66 | 0.55 | 0.69 |
 | SVM | 0.65 | 0.68 | 0.57 | 0.65 |
 | MLP | 0.60 | 0.61 | 0.56 | 0.60 |
-| RF | 0.65 | 0.64 | 0.67 | 0.65 |
+| RF | 0.65 | 0.64 | **0.67** | 0.65 |
 | Naïve Bayes | 0.63 | 0.64 | 0.56 | 0.63 |
 | XGBoost | 0.60 | 0.60 | 0.59 | 0.60 |
 | GRU | 0.57 | 0.57 | 0.57 | 0.57 |
