@@ -16,7 +16,7 @@ relevant information required for the classification stage.
 predict unplanned re-admissions. Conclusions will be drawn based on the results.
 
 ## _**Dataset Description**_
-This project relies on the MIMIC-III database [15] (‘Medical Information Mart for Intensive Care’). It includes clinical data of patients admitted to critical care units between
+This project relies on the MIMIC-III database (‘Medical Information Mart for Intensive Care’). It includes clinical data of patients admitted to critical care units between
 2001 and 2012 at the Beth Israel Deaconess Medical Center, comprising data associated
 with 53,423 distinct hospital admissions for adult patients (aged 16 years or above) and
 data for 7870 neonates. Given the sensitive nature of the medical information, the access
